@@ -1,0 +1,15 @@
+colorama
+gevent
+IPy
+loguru
+lxml
+ndjson
+pwn
+pwntools
+pycryptodome
+pyOpenSSL
+requests
+tzlocal
+python-telegram-bot==20.7
+Pillow
+watchdog
